@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:permission_handler] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\65b3d86df1c66859968f6a2c225fac0e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\a98398ec4faf9bff1d8ce4f5abb544f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\2a9cca7f6ffaebe572b87c9402e84ec8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\0de2ac9137247467ceac3dcf79f9f8a9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\df2eda4ec8498fc4f66f8f906533c780\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\0a7e2a8a27e1b24608a78809f228e456\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\84d82567db2021920eff2ce4df97972f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b87d297712a1ffcd0ea51964b99660e3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4846faf1c47b48007bb610f49cacc895\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\40e2d7e922e71d1b113bafc5fbad1376\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\f101708d289c3601987f8e2232883319\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\ff14848c061ee72c2f8cd33c136697fb\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\51a30704c0581c5d1fefddd3b4d90645\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\b20513539c957a90eb817588a64999b3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\b4719aefb2fb975a6e3b583c04fe1d2f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1c5491a050d09c0a29bb34f2d339d287\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\587cae1aadc4cc3375cf3ba32e7a3ae7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\b59cb01110651760cebf59b2b23330ed\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\f9469d6e2bd97c1b644daa7900f19c52\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\3ba2f66b3cf8e6d07de6f5aa2762c986\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\72badf5eba351014e02f427e82df0244\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\34a11f12c5e7e05ff354e2268de66199\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\5fcd224fff137fc0198e17b1bd753ebc\AndroidManifest.xml:17:1-22:12
+MERGED from [io.agora.rtc:full-sdk:2.9.1] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\full-sdk-2.9.1.aar\cba494ab4094916824e3769914ec9007\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:8:5-66
+MERGED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:15:5-38:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\ff14848c061ee72c2f8cd33c136697fb\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\ff14848c061ee72c2f8cd33c136697fb\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\b59cb01110651760cebf59b2b23330ed\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\b59cb01110651760cebf59b2b23330ed\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\ff14848c061ee72c2f8cd33c136697fb\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:17:9-33
+	android:icon
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:16:9-57
+activity#com.duocoders.videocall.MainActivity
+ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+MERGED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\65b3d86df1c66859968f6a2c225fac0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\65b3d86df1c66859968f6a2c225fac0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\a98398ec4faf9bff1d8ce4f5abb544f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\a98398ec4faf9bff1d8ce4f5abb544f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\2a9cca7f6ffaebe572b87c9402e84ec8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\2a9cca7f6ffaebe572b87c9402e84ec8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\0de2ac9137247467ceac3dcf79f9f8a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\0de2ac9137247467ceac3dcf79f9f8a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\df2eda4ec8498fc4f66f8f906533c780\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\df2eda4ec8498fc4f66f8f906533c780\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\0a7e2a8a27e1b24608a78809f228e456\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\0a7e2a8a27e1b24608a78809f228e456\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\84d82567db2021920eff2ce4df97972f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\84d82567db2021920eff2ce4df97972f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b87d297712a1ffcd0ea51964b99660e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b87d297712a1ffcd0ea51964b99660e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4846faf1c47b48007bb610f49cacc895\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4846faf1c47b48007bb610f49cacc895\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\40e2d7e922e71d1b113bafc5fbad1376\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\40e2d7e922e71d1b113bafc5fbad1376\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\f101708d289c3601987f8e2232883319\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\f101708d289c3601987f8e2232883319\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\ff14848c061ee72c2f8cd33c136697fb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\ff14848c061ee72c2f8cd33c136697fb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\51a30704c0581c5d1fefddd3b4d90645\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\51a30704c0581c5d1fefddd3b4d90645\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\b20513539c957a90eb817588a64999b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\b20513539c957a90eb817588a64999b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\b4719aefb2fb975a6e3b583c04fe1d2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\b4719aefb2fb975a6e3b583c04fe1d2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1c5491a050d09c0a29bb34f2d339d287\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1c5491a050d09c0a29bb34f2d339d287\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\587cae1aadc4cc3375cf3ba32e7a3ae7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\587cae1aadc4cc3375cf3ba32e7a3ae7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\b59cb01110651760cebf59b2b23330ed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\b59cb01110651760cebf59b2b23330ed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\f9469d6e2bd97c1b644daa7900f19c52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\f9469d6e2bd97c1b644daa7900f19c52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\3ba2f66b3cf8e6d07de6f5aa2762c986\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\3ba2f66b3cf8e6d07de6f5aa2762c986\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\72badf5eba351014e02f427e82df0244\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\72badf5eba351014e02f427e82df0244\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\34a11f12c5e7e05ff354e2268de66199\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\34a11f12c5e7e05ff354e2268de66199\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\5fcd224fff137fc0198e17b1bd753ebc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\5fcd224fff137fc0198e17b1bd753ebc\AndroidManifest.xml:20:5-44
+MERGED from [io.agora.rtc:full-sdk:2.9.1] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\full-sdk-2.9.1.aar\cba494ab4094916824e3769914ec9007\AndroidManifest.xml:7:5-9:41
+MERGED from [io.agora.rtc:full-sdk:2.9.1] C:\Users\ritik\.gradle\caches\transforms-1\files-1.1\full-sdk-2.9.1.aar\cba494ab4094916824e3769914ec9007\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.CAMERA
+ADDED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from [:agora_rtc_engine] C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\ritik\Downloads\VideoCallingApp\VideoCalingApp\android\app\src\main\AndroidManifest.xml:1:1-39:12 reason: io.agora.agorartcengine requested WRITE_EXTERNAL_STORAGE
